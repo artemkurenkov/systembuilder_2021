@@ -1,4 +1,3 @@
 FROM ubuntu:latest
 
-RUN whoami && pwd && ls
-
+RUN whoami && pwd

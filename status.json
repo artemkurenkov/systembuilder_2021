@@ -1,1 +1,1 @@
-{"Tue Dec 15 15:12:31 2020": {"sample-1": {"builder_release": 0.9, "status": true, "message": null}, "sample-2": {"builder_release": 0.9, "status": true, "message": null}}}
+{"Wed Dec 16 13:50:53 2020": {"artemkurenkov": {"builder_release": 0.9, "status": false, "message": "Command '['docker', 'buildx', 'build', '.']' returned non-zero exit status 1."}, "sample-1": {"builder_release": 0.9, "status": true, "message": null}, "sample-2": {"builder_release": 0.9, "status": true, "message": null}}}

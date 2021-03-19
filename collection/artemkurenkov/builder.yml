@@ -1,0 +1,13 @@
+name: build
+
+on:
+  push:
+    branches:
+      - test/actions
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - using: 'docker'
+        image: 'Dockerfile'

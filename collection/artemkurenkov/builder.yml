@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - using: 'docker'
+      - uses: 'docker'
         image: 'Dockerfile'
